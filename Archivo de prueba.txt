@@ -1,1 +1,0 @@
-Aqui vamos a crear un archivo de texto plano para trabajar con git, en el curso que estamos viendo en platzi.

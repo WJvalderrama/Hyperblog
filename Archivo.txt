@@ -1,0 +1,8 @@
+Archivo de practicas
+
+Aqui vamos a crear un archivo de texto plano para trabajar con git,
+
+en el curso que estamos viendo en platzi.
+
+seguimos haciendo ejercicios con platzi.
+agregamos otra linea para practicar el mensaje del commit.
