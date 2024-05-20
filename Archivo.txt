@@ -6,3 +6,4 @@ en el curso que estamos viendo en platzi.
 
 seguimos haciendo ejercicios con platzi.
 agregamos otra linea para practicar el mensaje del commit.
+agregamos una tercera linea para seguir en la practica.
